@@ -15,7 +15,7 @@ The explanation of each of the notebooks in the `notebook` directory is as follo
 - **a3_method.ipynb**: This notebook executes the features engineering and HPO for the **a3** method, as per the process explained in the manuscript. The results for **a1**, **a2**, and **a3** methods are generated in the `results/stats` directory. The results of these methods are reported in **Table 5** in the original manuscript.
 - **Best_methods_predictions.ipynb**: This notebook includes the code that executes **a1**, **a2**, and **a3** methods with the best hyper-parameters. The results depicted in **Figures 4 and 5** in the paper are obtained using this notebook.
 - **Results_Analysis.ipynb**: This notebook includes the code that generates **Figures 4 and 5** in the original manuscript.
-- **Zone_Analysis.ipynb**: This notebook includes the code that generates the results in **Table 6**.
+- **Prediction_Analysis.ipynb**: This notebook includes the code that generates the results in **Table 6**.
 
 # Contact-Info
 
